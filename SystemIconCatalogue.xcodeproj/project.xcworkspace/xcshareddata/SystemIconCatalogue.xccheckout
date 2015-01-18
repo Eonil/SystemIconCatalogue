@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B08A716-01C5-4E85-8CD5-80466D7671D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SystemIconCatalogue</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C80B0FEA5B536CCE9A9C6F963A8DA0C0D1333E7B</key>
+		<string>https://github.com/Eonil/SystemIconCatalogue.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SystemIconCatalogue.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C80B0FEA5B536CCE9A9C6F963A8DA0C0D1333E7B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Eonil/SystemIconCatalogue.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C80B0FEA5B536CCE9A9C6F963A8DA0C0D1333E7B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C80B0FEA5B536CCE9A9C6F963A8DA0C0D1333E7B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SystemIconCatalogue</string>
+		</dict>
+	</array>
+</dict>
+</plist>

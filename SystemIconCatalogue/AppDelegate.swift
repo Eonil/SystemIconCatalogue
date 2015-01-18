@@ -116,6 +116,7 @@ final class SystemIconItem: NSObject {
 	let	title:String
 	let	icon:NSImage
 	
+	///	Creates icon using `NSWorkspace`.
 	init(key:Int, title:String) {
 		self.title	=	title
 		
@@ -125,6 +126,8 @@ final class SystemIconItem: NSObject {
 
 		self.icon	=	m1
 	}
+	
+	///	Creates icon using `NSImage`'s named image.
 	init(name:String) {
 		self.title	=	name
 		self.icon	=	NSImage(named: name)!

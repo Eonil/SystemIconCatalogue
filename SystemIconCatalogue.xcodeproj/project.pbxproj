@@ -38,6 +38,7 @@
 		4526C1211A6B8B2900F5BDC1 /* SystemIconConstantValueList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SystemIconConstantValueList.swift; sourceTree = "<group>"; };
 		4526C1231A6B8BC700F5BDC1 /* SystemIconConstantNameList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SystemIconConstantNameList.swift; sourceTree = "<group>"; };
 		4526C1291A6B9EE000F5BDC1 /* StandardImageNameList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StandardImageNameList.swift; sourceTree = "<group>"; };
+		4526C12B1A6BA30D00F5BDC1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		4526C0F81A6B8B1700F5BDC1 = {
 			isa = PBXGroup;
 			children = (
+				4526C12B1A6BA30D00F5BDC1 /* README.md */,
 				4526C1031A6B8B1700F5BDC1 /* SystemIconCatalogue */,
 				4526C1141A6B8B1800F5BDC1 /* SystemIconCatalogueTests */,
 				4526C1021A6B8B1700F5BDC1 /* Products */,
